@@ -109,6 +109,9 @@ A large proportion of passengers were approximately between 20 and 40 years old,
 - Most passengers were between approximately 20 and 40 years old.
 - Gender and passenger class showed noticeable relationships with survival.
 
+## Conclusion
+
+This task helped me gain practical experience in data cleaning, exploratory data analysis, data visualization, and interpreting real-world datasets.
 
 
 

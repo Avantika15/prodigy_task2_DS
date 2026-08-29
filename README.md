@@ -6,7 +6,7 @@ Exploratory Data Analysis of the Titanic dataset using Python, Pandas, and Matpl
 
 This project is part of my **Data Science Internship at Prodigy InfoTech**.
 
-The objective of this task is to perform **Exploratory Data Analysis (EDA)** on the Titanic dataset. The analysis focuses on cleaning the data, understanding passenger characteristics, exploring relationships between variables, and identifying patterns related to passenger survival.
+The objective of this task is to perform **Data cleaning and Exploratory Data Analysis (EDA)** on the Titanic dataset. The analysis focuses on cleaning the data, understanding passenger characteristics, exploring relationships between variables, and identifying patterns related to passenger survival.
 
 ## 🎯 Objectives
 
@@ -86,21 +86,21 @@ This visualization compares the survival percentage of male and female passenger
 **Observation:**  
 Approximately 74% of female passengers survived, compared with approximately 19% of male passengers. This shows a significant difference in survival rates between the two genders.
 
-**4. Survival Rate by Passenger Class**
+### 4. Survival Rate by Passenger Class**
 
 This visualization compares survival rates across 1st, 2nd, and 3rd class passengers.
 
 **Observation:**  
 First-class passengers had the highest survival rate at approximately 63%, followed by second-class passengers at approximately 47%. Third-class passengers had the lowest survival rate at approximately 24%.
 
-**5. Age Distribution**
+### 5. Age Distribution
 
 This histogram shows the distribution of passenger ages.
 
-**Observation:**
+### Observation:
 A large proportion of passengers were approximately between 20 and 40 years old, while fewer passengers were very young or elderly.
 
-🔍 Key Findings
+### 🔍 Key Findings
 
 - More passengers did not survive than survived.
 - Female passengers had a significantly higher survival rate than male passengers.

@@ -72,28 +72,22 @@ This visualization compares the number of passengers who survived with those who
 **Observation:**  
 Out of 891 passengers, 342 survived and 549 did not survive. Therefore, the number of passengers who did not survive was higher than the number who survived.
 
-### 2. Survival by Gender
 
-This visualization compares the number of male and female passengers who survived.
-
-**Observation:**  
-233 female passengers survived compared with 109 male passengers, showing that the number of female survivors was considerably higher.
-
-### 3. Survival Rate by Gender
+### 2. Survival Rate by Gender
 
 This visualization compares the survival percentage of male and female passengers.
 
 **Observation:**  
 Approximately 74% of female passengers survived, compared with approximately 19% of male passengers. This shows a significant difference in survival rates between the two genders.
 
-### 4. Survival Rate by Passenger Class**
+### 3. Survival Rate by Passenger Class**
 
 This visualization compares survival rates across 1st, 2nd, and 3rd class passengers.
 
 **Observation:**  
 First-class passengers had the highest survival rate at approximately 63%, followed by second-class passengers at approximately 47%. Third-class passengers had the lowest survival rate at approximately 24%.
 
-### 5. Age Distribution
+### 4. Age Distribution
 
 This histogram shows the distribution of passenger ages.
 
